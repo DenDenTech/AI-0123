@@ -1,4 +1,4 @@
-echo "# AI-0123" >> README.md
+echo "# Alpha " >> README.md
 git init
 git add README.md
 git commit -m "first commit"
