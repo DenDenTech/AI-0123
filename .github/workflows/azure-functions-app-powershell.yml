@@ -5,7 +5,7 @@
 #
 # To configure this workflow:
 # 1. Set up the following secrets in your repository:
-#   - AZURE_FUNCTIONAPP_PUBLISH_PROFILE
+#   - AZURE_RBAC_CREDENTIALS
 # 2. Change env variables for your configuration.
 #
 # For more information on:
